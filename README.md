@@ -22,7 +22,6 @@ Basically you have to write two solutions for this problem. One using callbacks 
   Note: this is just example where only three addresses are given, it can be any number.
   Input address: ['google.com', 'http://amazon.com', 'http://www.youtube.com']
   Output html:
-```
 
   /**
    * <ul>
@@ -31,6 +30,7 @@ Basically you have to write two solutions for this problem. One using callbacks 
    *  <li>url: http://www.youtube.com title: <h2>YouTube</h2></li>
    * </ul>
    */
+```
 
 Open these two files to find where you will be writing most of your code. Although you are encouraged to change/add files, and improve
 architecture of application. Its always good idea to build solutions around scalable/modular architecture.
