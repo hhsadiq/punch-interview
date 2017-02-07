@@ -9,3 +9,8 @@ All instructions are in following two files
 ./server/titles/callbacks/titles.service.js
 
 ./server/titles/promises/titles.service.js
+
+
+URL:
+
+http://localhost:8888/fetch/the/titles?address=google.com&address=amazon.com
