@@ -32,9 +32,16 @@ Basically you have to write two solutions for this problem. One using callbacks 
    </ul>
 ```
 
-Open these two files to find where you will be writing most of your code. Although you are encouraged to change/add files, and improve
-architecture of application. Its always good idea to build solutions around scalable/modular architecture.
+Open these two files to find where you will be writing your code. 
 
 ./server/titles/callbacks/titles.service.js
 
 ./server/titles/promises/titles.service.js
+
+You are highly encouraged to change/add files, and improve
+architecture of application. We really like modular/compact/self-describing code. Keep in mind the following three golder principles
+
+DRY(Do not repeat yourself)
+KISS(Keep it Simple Stupid)
+YAGNI(You "Ain't Gonna Need It)
+
