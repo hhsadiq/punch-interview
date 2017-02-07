@@ -2,7 +2,7 @@
 Node.js/Express.js based Interview test
 
 
-Instruction:
+## Instruction:
 
 All instructions are in following two files
 
@@ -11,9 +11,6 @@ All instructions are in following two files
 ./server/titles/promises/titles.service.js
 
 
-URL:
+## Requirements:
 
-http://localhost:8888/fetch/the/titles?address=google.com&address=amazon.com
-
-Requirements:
 Use Node version 6.9.1 to run this repo. Its always good idea to use nvm to manage node versions :-)
