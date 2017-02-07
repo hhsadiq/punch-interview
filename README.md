@@ -20,7 +20,9 @@ Basically you have to write two solutions for this problem. One using callbacks 
   original address e.g
   URL: http://localhost:8888/fetch/the/titles?address=google.com&address=http://amazon.com&address=http//www.youtube.com
   Note: this is just example where only three addresses are given, it can be any number.
-  Input address: ['google.com', 'http://amazon.com', 'http://www.youtube.com']
+  You will get input address in array from query params in following two files 
+  ./server/titles/callbacks/titles.service.js  
+  ./server/titles/promises/titles.service.js
   Output html:
 
   /**
