@@ -38,6 +38,9 @@ Open these two files to find where you will be writing your code.
 
 ./server/titles/promises/titles.service.js
 
+
+### Important note
+
 You are highly encouraged to change/add files, and improve
 architecture of application. We really like modular/compact/self-describing code. Keep in mind the following three golder principles
 
