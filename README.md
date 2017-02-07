@@ -42,7 +42,7 @@ Open these two files to find where you will be writing your code.
 ### Important note
 
 You are highly encouraged to change/add files, and improve
-architecture of application. We really like modular/compact/self-describing code. Keep in mind the following three golden principles
+architecture of application. We really like modular/compact/self-describing code. Keep in mind the following three golden principles.
 
 1. DRY(Do not repeat yourself)
 
