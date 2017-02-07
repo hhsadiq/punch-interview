@@ -3,7 +3,7 @@ Node.js/Express.js based Interview test
 
 
 
-## Instruction:
+## Instructions:
 Use Node version 6.9.1 to run these commands.
 
 `npm install`
