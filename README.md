@@ -18,7 +18,7 @@ Basically you have to write two solutions for this problem. One using callbacks 
   Use callbacks/promises to fetch the titles of these web addresses. Parse them in HTML and return bACK HTML
   Basically you will be fetching home page of each web address, extracting the title tag and display it along with
   original address e.g
-  URL: http://localhost:8888/fetch/the/titles?address=google.com&address=http://amazon.com&address=http//www.youtube.com
+  URL: http://localhost:8888/fetch/the/titles?address=google.com&address=http://amazon.com&address=http://www.youtube.com
   Note: this is just example where only three addresses are given, it can be any number.
   You will get input address in array from query params in following two files 
   ./server/titles/callbacks/titles.service.js  
