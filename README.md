@@ -41,9 +41,9 @@ Open these two files to find where you will be writing your code.
 You are highly encouraged to change/add files, and improve
 architecture of application. We really like modular/compact/self-describing code. Keep in mind the following three golder principles
 
-DRY(Do not repeat yourself)
+1. DRY(Do not repeat yourself)
 
-KISS(Keep it Simple Stupid)
+2. KISS(Keep it Simple Stupid)
 
-YAGNI(You "Ain't Gonna Need It)
+3. YAGNI(You "Ain't Gonna Need It)
 
