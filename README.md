@@ -23,7 +23,7 @@ Basically you have to write two solutions for this problem. One using callbacks 
   You will get input address in array from query params in following two files 
   ./server/titles/callbacks/titles.service.js  
   ./server/titles/promises/titles.service.js
-  Output html:
+  Output html which service should return to controller. Your controller will then send it back to browser for rendering:
 
    <ul>
     <li>url: google.com title: <h2>Google</h2></li>
