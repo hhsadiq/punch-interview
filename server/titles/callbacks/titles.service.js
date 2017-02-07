@@ -4,8 +4,8 @@
 function retrieve(addresses, callback) {
   console.log(addresses); // Horraaayy...you got the list of addresses from query parameters
 
-  // TODO: use callbacks to fetch the titles of these web addresses. Parse them in html and ul/li and return bACK HTML
-  // TODO: Basically you will be fetching home page of each web address, extract the title tag and display it along with
+  // TODO: use callbacks to fetch the titles of these web addresses. Parse them in HTML and return bACK HTML
+  // TODO: Basically you will be fetching home page of each web address, extracting the title tag and display it along with
   // TODO: original address e.g
   // TODO: Input address : ['google.com', 'http://amazon.com', 'http://www.youtube.com']
   // TODO: Output html:
