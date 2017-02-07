@@ -25,13 +25,11 @@ Basically you have to write two solutions for this problem. One using callbacks 
   ./server/titles/promises/titles.service.js
   Output html:
 
-  /**
-   * <ul>
-   *  <li>url: google.com title: <h2>Google</h2></li>
-   *  <li>url: http://amazon.com title: <h2>Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more</h2></li>
-   *  <li>url: http://www.youtube.com title: <h2>YouTube</h2></li>
-   * </ul>
-   */
+   <ul>
+    <li>url: google.com title: <h2>Google</h2></li>
+    <li>url: http://amazon.com title: <h2>Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more</h2></li>
+    <li>url: http://www.youtube.com title: <h2>YouTube</h2></li>
+   </ul>
 ```
 
 Open these two files to find where you will be writing most of your code. Although you are encouraged to change/add files, and improve
