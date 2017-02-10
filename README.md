@@ -39,6 +39,10 @@ Open these two files to find where you will be writing your code.
 ./server/titles/promises/titles.service.js
 
 
+### Solution
+
+Upload your solution to your github account. And send its link back to us.
+
 ### Important note
 
 You are highly encouraged to change/add files, and improve
