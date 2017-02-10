@@ -32,16 +32,12 @@ Basically you have to write two solutions for this problem. One using callbacks 
    </ul>
 ```
 
-Open these two files to find where you will be writing your code. 
+Open these two files to find where you will be writing most of your code. 
 
 ./server/titles/callbacks/titles.service.js
 
 ./server/titles/promises/titles.service.js
 
-
-### Solution
-
-Upload your solution to your github account. And send its link back to us.
 
 ### Important note
 
@@ -56,3 +52,8 @@ architecture of application. We really like modular/compact/self-describing code
 
 
 If you have any question, or requirements are not clear contact me at hhsadiqAtGmail
+
+
+### Solution
+
+Upload your solution to your github account. And send its link back to us.
