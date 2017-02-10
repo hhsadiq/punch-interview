@@ -15,7 +15,7 @@ Your app will be served at http://localhost:8888
 Basically you have to write two solutions for this problem. One using callbacks and second using promises.
 
 ```
-  Use callbacks/promises to fetch the titles of these web addresses. Parse them in HTML and return bACK HTML
+  Use callbacks/promises to fetch the titles of web addresses given in query parameters. Parse them in HTML and return bACK HTML
   Basically you will be fetching home page of each web address, extracting the title tag and display it along with
   original address e.g
   URL: http://localhost:8888/fetch/the/titles?address=google.com&address=http://amazon.com&address=http://www.youtube.com
@@ -50,3 +50,5 @@ architecture of application. We really like modular/compact/self-describing code
 
 3. YAGNI(You "Ain't Gonna Need It)
 
+
+If you have any question, or requirements are not clear contact me at hhsadiqAtGmail
