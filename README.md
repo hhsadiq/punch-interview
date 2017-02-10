@@ -26,9 +26,9 @@ Basically you have to write two solutions for this problem. One using callbacks 
   These services should return following HTML (example) to controllers. Your controllers will then send it back to browser for rendering:
 
    <ul>
-    <li>google.com <h2>Google</h2></li>
-    <li>http://amazon.com <h2>Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more</h2></li>
-    <li>http://www.youtube.com <h2>YouTube</h2></li>
+    <li>google.com - <h2>Google</h2></li>
+    <li>http://amazon.com - <h2>Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more</h2></li>
+    <li>http://www.youtube.com - <h2>YouTube</h2></li>
    </ul>
    
    Please make sure to add error handling e.g.
@@ -36,7 +36,7 @@ Basically you have to write two solutions for this problem. One using callbacks 
    http://localhost:8888/fetch/the/titles?address=asdasdasd should return
    
    <ul>
-    <li>asdasdasd <h2>NO RESPONSE</h2>
+    <li>asdasdasd - <h2>NO RESPONSE</h2>
    </ul>
     - 
 ```
